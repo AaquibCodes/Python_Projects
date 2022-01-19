@@ -1,0 +1,12 @@
+#program to convert text to speech and save it as a mp3 file
+
+from gtts import gTTS
+
+mytext1 = 'Time for Eye exercise!'
+language = 'en'
+a = gTTS(text=mytext1, lang=language, slow=False)
+a.save("eye.mp3")
+mytext2 = 'Drink Water and Do some physical activity!'
+language = 'en'
+b = gTTS(text=mytext2, lang=language, slow=False)
+b.save("Water_physical.mp3")

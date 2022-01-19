@@ -1,0 +1,10 @@
+Thu Jan 13 11:19:12 2022 PLayer 1 WON -- guessed the number in 3 chances
+Thu Jan 13 11:19:12 2022 Its a Draw
+Thu Jan 13 11:21:40 2022 PLayer 2 WON -- guessed the number in 2 chances
+Thu Jan 13 11:22:44 2022 PLayer 1 WON -- guessed the number in 2 chances
+Thu Jan 13 11:22:44 2022 Its a Draw
+Thu Jan 13 11:24:13 2022 PLayer 2 WON -- guessed the number in 1 chances
+Thu Jan 13 11:26:35 2022 PLayer 1 WON -- guessed the number in 1 chances
+Thu Jan 13 11:27:40 2022 Its a Draw
+Thu Jan 13 11:31:52 2022 PLayer 2 WON -- guessed the number in 1 chances
+Thu Jan 13 11:33:09 2022 Its a Draw
