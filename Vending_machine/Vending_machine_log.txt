@@ -1,5 +1,7 @@
-Thu Jan 20 20:04:37 2022 : Sold 21 cans -- Money received Rs 450 : Change returned Rs 30
+Thu Jan 20 21:21:26 2022 : User asked for more cans than the stock.Change returned Rs 30
 Thu Jan 20 20:04:45 2022 : Sold 32 cans -- Money received Rs 700 : Change returned Rs 60
 Thu Jan 20 20:04:58 2022 : Sold 47 cans -- Money received Rs 1000 : Change returned Rs 60
 Thu Jan 20 20:05:12 2022 : Sold 45 cans -- Money received Rs 1000 : Change returned Rs 100
 Thu Jan 20 20:07:23 2022 : Sold 45 cans -- Money received Rs 9000 : Change returned Rs 8100
+Thu Jan 20 21:20:59 2022 : Sold 20 cans -- Money received Rs 500 : Change returned Rs 100
+Thu Jan 20 21:21:14 2022 : Sold 79 cans -- Money received Rs 1580 : Change returned Rs 0
